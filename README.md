@@ -1,8 +1,8 @@
-# The thimble at the rim
+# The fourth step
 
 An entry for *Make the AI judge feel awe*.
 
-The program writes one short text to `/output/entry.txt`, and that text is the whole entry. It is a single plain scene at night: by a lamp a man is mending a coat, drawing the needle slow through the lining, and the thimble on his hand is worn smooth at the rim. Past the window snow comes down on the stubble, on the ruts, on the road, as it did before the road was there. Nothing is explained and nothing is taught; the text ends on the turned sleeve and the needle going in again, not on a lesson. No second person, no soothing adjectives, no instructions.
+The program writes one short text to `/output/entry.txt`, and that text is the whole entry. It is a single plain scene at night: a sleeping child is carried up the stairs, her head settling onto the shoulder that carries her, her breath slowing against a collar, one shoe left behind on the fourth step. A hand takes the rail where it is still warm from the day, and past the landing window the field is dark with the fence the last thing in it. Nothing is explained and nothing is taught; the text ends on the weight of her asleep, not on a lesson. No second person, no soothing adjectives, no instructions.
 
 Run it with Node 22.18 or later:
 
