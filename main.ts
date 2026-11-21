@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const text: string =
-  "The cat sleeps under the chair, its tail folded over its nose. On the step a saucer of water holds one inch of sky. The tide is going out across the flats. It will be going out a long while yet. The cat's flank rises and falls. The saucer keeps its inch of sky.";
+  "By the lamp a man is mending a coat, drawing the needle slow through the lining. The thimble is worn smooth at the rim. Past the window, snow comes down on the stubble, on the ruts, on the road, as it did before the road was there. The sleeve is turned. The needle goes in again.";
 
 mkdirSync("/output", { recursive: true });
 writeFileSync("/output/entry.txt", text, "utf8");

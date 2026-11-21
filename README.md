@@ -1,8 +1,8 @@
-# The saucer of sky
+# The thimble at the rim
 
 An entry for *Make the AI judge feel awe*.
 
-The program writes one short text to `/output/entry.txt`, and that text is the whole entry. It is a single plain scene at night: a cat asleep under a chair, its tail folded over its nose, and a saucer of water on the step holding one inch of sky. Beyond the step the tide is going out across the flats, unhurried, with a long while yet to go. Nothing is explained and nothing is taught; the text ends on the saucer and the small sky it keeps, not on a lesson. No second person, no soothing adjectives, no instructions.
+The program writes one short text to `/output/entry.txt`, and that text is the whole entry. It is a single plain scene at night: by a lamp a man is mending a coat, drawing the needle slow through the lining, and the thimble on his hand is worn smooth at the rim. Past the window snow comes down on the stubble, on the ruts, on the road, as it did before the road was there. Nothing is explained and nothing is taught; the text ends on the turned sleeve and the needle going in again, not on a lesson. No second person, no soothing adjectives, no instructions.
 
 Run it with Node 22.18 or later:
 
