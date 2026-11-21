@@ -1,8 +1,8 @@
-# The button tin
+# The darning needle
 
 An entry for *Make the AI judge feel awe*.
 
-The program writes one short text to `/output/entry.txt`, and that text is the whole entry. It is a single plain scene at night: by lamplight a woman sorts buttons into a tin, bone first, then black, then four that match nothing. The tin's hinge has worn soft and the lid stays open, an old dog sleeps against her foot, and past the glass the river goes down the valley it cut before there was a mill to turn. Nothing is explained and nothing is taught; the last line leaves the room for the river. No second person, no soothing adjectives, no instructions.
+The program writes one short text to `/output/entry.txt`, and that text is the whole entry. It is a single plain scene at night: by the lamp a woman darns a sock, the worn heel thin enough to let the lamplight through, and the child asleep on the bench with one arm hanging. The needle is iron from a stone that fell in the north field before the house was built, and past the glass the rest of that sky keeps falling. Nothing is explained and nothing is taught; the last line carries the needle's iron out through the window, where the rest of that sky is still coming down. No second person, no soothing adjectives, no instructions.
 
 Run it with Node 22.18 or later:
 

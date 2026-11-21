@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const text: string =
-  "By lamplight a woman sorts buttons into a tin. Bone first, then black, then four that match nothing. The tin's hinge has worn soft. The lid stays open. The old dog sleeps against her foot. Past the glass the river goes down the valley it cut before there was a mill to turn.";
+  "By the lamp a woman darns a sock, needle in, needle out. The heel lets the lamp through. The child sleeps on the bench, one arm hanging. The needle is iron from a stone that fell in the north field. A smith found it there. Past the glass, the rest of that sky keeps falling.";
 
 mkdirSync("/output", { recursive: true });
 writeFileSync("/output/entry.txt", text, "utf8");
