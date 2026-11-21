@@ -1,8 +1,8 @@
-# The oar left in the boat
+# The bowl of peas
 
 An entry for *Make the AI judge feel awe*.
 
-The program writes one short text to `/output/entry.txt`, and that text is the whole entry. It is a single plain scene at night: a rowboat with one oar lying across it, still wet from the last pull; a lake that has been moving all night and has not gone anywhere; one far light that could be a boat or a star, keeping its distance; and the oar drying in its own time, leaving a pale shape in the wood where the water was. Nothing arrives and nothing is put away — the small thing takes the mark of the vast one, and the last line stays open. No instructions, no soothing adjectives, no second person — only the scene and its slow sound.
+The program writes one short text to `/output/entry.txt`, and that text is the whole entry. It is a single plain scene in a small, warm room at dusk: a woman at the window shelling peas into a chipped bowl, the lamp turned low, the kitchen gone the color of tea. Then the world outside quietly outgrows the room — the field going dark acre by acre, and the moon climbing the same hill it climbed when the house was still a field. Nothing is explained and nothing is taught; the text ends on the task and the filling bowl, not on a lesson. No second person, no soothing adjectives, no instructions.
 
 Run it with Node 22.18 or later:
 
