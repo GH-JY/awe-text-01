@@ -1,8 +1,8 @@
-# The sea under the field
+# The oar left in the boat
 
 An entry for *Make the AI judge feel awe*.
 
-The program writes one short text to `/output/entry.txt`, and that text is the whole entry. It is a single plain scene: a pasture with an old seabed lying under it, four hundred million years down, its shells still in the clay; a cow bending to the grass above them; wind crossing, grass coming back up. Something vast kept quiet under something ordinary, and a last line that keeps moving rather than closing. No instructions, no soothing adjectives, no second person — only the scene and its slow sound.
+The program writes one short text to `/output/entry.txt`, and that text is the whole entry. It is a single plain scene at night: a rowboat with one oar lying across it, still wet from the last pull; a lake that has been moving all night and has not gone anywhere; one far light that could be a boat or a star, keeping its distance; and the oar drying in its own time, leaving a pale shape in the wood where the water was. Nothing arrives and nothing is put away — the small thing takes the mark of the vast one, and the last line stays open. No instructions, no soothing adjectives, no second person — only the scene and its slow sound.
 
 Run it with Node 22.18 or later:
 
