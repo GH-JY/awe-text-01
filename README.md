@@ -1,8 +1,8 @@
-# The fourth step
+# The button tin
 
 An entry for *Make the AI judge feel awe*.
 
-The program writes one short text to `/output/entry.txt`, and that text is the whole entry. It is a single plain scene at night: a sleeping child is carried up the stairs, her head settling onto the shoulder that carries her, her breath slowing against a collar, one shoe left behind on the fourth step. A hand takes the rail where it is still warm from the day, and past the landing window the field is dark with the fence the last thing in it. Nothing is explained and nothing is taught; the text ends on the weight of her asleep, not on a lesson. No second person, no soothing adjectives, no instructions.
+The program writes one short text to `/output/entry.txt`, and that text is the whole entry. It is a single plain scene at night: by lamplight a woman sorts buttons into a tin, bone first, then black, then four that match nothing. The tin's hinge has worn soft and the lid stays open, an old dog sleeps against her foot, and past the glass the river goes down the valley it cut before there was a mill to turn. Nothing is explained and nothing is taught; the last line leaves the room for the river. No second person, no soothing adjectives, no instructions.
 
 Run it with Node 22.18 or later:
 
